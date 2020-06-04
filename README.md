@@ -7,15 +7,18 @@ In this assignment, I created an employee directory with React. The assignment r
 ## User Story
 
 ```
-* AS a user, 
-I WANT to be able to view my entire employee directory at once so that I have quick access to their information.
+AS a user, 
+I WANT to be able to view my entire employee directory at once, 
+SI THAT I have quick access to their information.
 ```
 - - -
 
 ## Acceptance Criteria
 
 ```
-Given a table of random users, when the user loads the page, a table of employees should render. 
+GIVEN a table of random users, 
+WHEN the user loads the page, 
+THEN a table of employees should render. 
 ```
 - - -
 
