@@ -9,7 +9,7 @@ In this assignment, I created an employee directory with React. The assignment r
 ```
 AS a user, 
 I WANT to be able to view my entire employee directory at once, 
-SI THAT I have quick access to their information.
+SO THAT I have quick access to their information.
 ```
 - - -
 
