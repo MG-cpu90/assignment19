@@ -13,7 +13,6 @@ function App() {
       <Wrapper>
         <div>
         <Route exact path="/" component={Home} />
-          {/* <Table employees={employees} /> */}
         </div>
       </Wrapper>
     </Router>

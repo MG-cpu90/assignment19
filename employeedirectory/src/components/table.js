@@ -4,8 +4,13 @@ import "../index.css";
 class Table extends Component {
   constructor(props) {
     super(props);
-    this.state = { data: props.employees };
+    this.state = {
+      data: props.employees,
+      dataFiltered: props.employees,
+      filter: "",
+    };
     this.sortColumn = this.sortColumn.bind(this);
+    this.handleFilterChange = this.handleFilterChange.bind(this);
   }
 
   componentDidMount() {
@@ -13,17 +18,39 @@ class Table extends Component {
   }
 
   sortColumn = (event, sortKey) => {
- 
-    const data = this.state.data;
+    let data = this.state.data;
     data.sort((a, b) => a[sortKey].localeCompare(b[sortKey]));
     this.setState({ data });
   };
 
-  render() {
-    let newData = this.state.data;
+  handleFilterChange = (e) => {
+    const dataCopy = this.state.dataFiltered;
+    this.setState({ filter: e.target.value });
+
+    if (e.target.value === "") {
+      this.setState({ dataFiltered: this.state.data });
+    } else {
+      const result = dataCopy.filter((employee) =>
+        employee.firstName.includes(this.state.filter)
+      );
+      this.setState({ dataFiltered: result });
+    }
+  };
+
+  render(props) {
+    let newData = this.state.dataFiltered;
+    let filterOption = this.state.filter;
 
     return (
       <div className="m-2 p-2">
+        <input
+          type="text"
+          placeholder="Filter by Column"
+          value={filterOption}
+          id="filter"
+          style={{ width: "270px", padding: "2px", margin: "5px" }}
+          onChange={this.handleFilterChange}
+        />
         <table className="table m-2 p-2">
           <thead>
             <tr>
