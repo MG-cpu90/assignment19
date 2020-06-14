@@ -17,9 +17,9 @@ class Home extends Component {
         idNumber: 1
       },
       {
-        lastName: "Winters",
-        firstName: "Garrett",
-        name: "Garrett Winters",
+        lastName: "Khan",
+        firstName: "Amit",
+        name: "Amit Khan",
         position: "Accountant",
         salary: "$170,000",
         salaryNumber: 170000,
@@ -31,15 +31,15 @@ class Home extends Component {
         firstName: "Ashton",
         name: "Ashton Cox",
         position: "Junior Technical Author",
-        salary: "$86,000",
-        salaryNumber: 86000,
+        salary: "$100,000",
+        salaryNumber: 100000,
         id: "3",
         idNumber: 3
       },
       {
-        lastName: "Kelly",
-        firstName: "Cedric",
-        name: "Cedric Kelly",
+        lastName: "González",
+        firstName: "Diego",
+        name: "Diego González",
         position: "Senior Javascript Developer",
         salary: "$433,000",
         salaryNumber: 433000,
@@ -51,8 +51,8 @@ class Home extends Component {
         firstName: "Airi",
         name: "Airi Satou",
         position: "Accountant",
-        salary: "$162,000",
-        salaryNumber: 162000,
+        salary: "$186,000",
+        salaryNumber: 186000,
         id: "5",
         idNumber: 5
       },
@@ -74,7 +74,27 @@ class Home extends Component {
         salary: "$112,000",
         salaryNumber: 112000,
         id: "7",
-        idNumber: 1
+        idNumber: 7
+      },
+      {
+        lastName: "Kim",
+        firstName: "Jennifer",
+        name: "Jennifer Kim",
+        position: "Marketing",
+        salary: "$445,000",
+        salaryNumber: 445000,
+        id: "8",
+        idNumber: 8
+      },
+      {
+        lastName: "Bianchi",
+        firstName: "Daniela",
+        name: "Daniela Bianchi",
+        position: "Human Resources",
+        salary: "$233,000",
+        salaryNumber: 233000,
+        id: "9",
+        idNumber: 9
       }
     ]
   };

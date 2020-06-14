@@ -7,7 +7,7 @@ class Table extends Component {
     this.state = {
       data: props.employees,
       dataFiltered: props.employees,
-      filter: "",
+      filter: ""
     };
     this.sortColumn = this.sortColumn.bind(this);
     this.handleFilterChange = this.handleFilterChange.bind(this);
@@ -31,7 +31,7 @@ class Table extends Component {
       this.setState({ dataFiltered: this.state.data });
     } else {
       const result = dataCopy.filter((employee) =>
-        employee.firstName.includes(this.state.filter)
+        employee.name.includes(this.state.filter)
       );
       this.setState({ dataFiltered: result });
     }
@@ -45,7 +45,7 @@ class Table extends Component {
       <div className="m-2 p-2">
         <input
           type="text"
-          placeholder="Filter by Column"
+          placeholder="Filter by Employee Name"
           value={filterOption}
           id="filter"
           style={{ width: "270px", padding: "2px", margin: "5px" }}

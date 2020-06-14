@@ -19,6 +19,12 @@ SO THAT I have quick access to their information.
 GIVEN a table of random users, 
 WHEN the user loads the page, 
 THEN a table of employees should render. 
+
+WHEN the user clicks on the sort button of a particular column,
+THEN that items in that column are sorted in ascending order.
+
+WHEN the user types an employee's name into the input bar,
+THEN the data on that particular employee is filtered from the table.
 ```
 - - -
 
@@ -26,7 +32,7 @@ THEN a table of employees should render.
 
 The user is able to:
 
-  * Sort the table by at least one category
+  * Sort the table by at least one category.
 
   * Filter the users by at least one property.
 
