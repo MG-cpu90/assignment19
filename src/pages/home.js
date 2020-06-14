@@ -1,12 +1,7 @@
 import React, { Component } from "react";
-<<<<<<< HEAD:employeedirectory/src/pages/home.js
-import Hero from "../components/hero";
-import Table from "../components/table";
-=======
 import Hero from "../components/Hero";
 import Table from "../components/Table";
 import backgroundImage from './business-company-working.jpg';
->>>>>>> 6e5ba15c32fab9df90de9b40769cee3e9735240b:src/pages/home.js
 import { render } from "react-dom";
 
 class Home extends Component {
