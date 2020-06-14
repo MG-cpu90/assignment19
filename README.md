@@ -38,6 +38,6 @@ The user is able to:
 
 ## Submission on BCS
 
-* The URL to the deployed application: https://mg-cpu90.github.io/assignment19/employeedirectory/
+* The URL to the deployed application: https://mg-cpu90.github.io/assignment19/
 
 * The URL to the Github repository: https://github.com/MG-cpu90/assignment19 
