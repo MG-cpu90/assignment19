@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/assignment19/employeedirectory/public/static/css/main.029f4300.chunk.css",
+    "main.js": "/assignment19/employeedirectory/public/static/js/main.c509bdca.chunk.js",
+    "main.js.map": "/assignment19/employeedirectory/public/static/js/main.c509bdca.chunk.js.map",
+    "runtime-main.js": "/assignment19/employeedirectory/public/static/js/runtime-main.c2473444.js",
+    "runtime-main.js.map": "/assignment19/employeedirectory/public/static/js/runtime-main.c2473444.js.map",
+    "static/js/2.97c5b96a.chunk.js": "/assignment19/employeedirectory/public/static/js/2.97c5b96a.chunk.js",
+    "static/js/2.97c5b96a.chunk.js.map": "/assignment19/employeedirectory/public/static/js/2.97c5b96a.chunk.js.map",
+    "index.html": "/assignment19/employeedirectory/public/index.html",
+    "precache-manifest.42bc8e9b82aff4b54ad675f3ae6e542e.js": "/assignment19/employeedirectory/public/precache-manifest.42bc8e9b82aff4b54ad675f3ae6e542e.js",
+    "service-worker.js": "/assignment19/employeedirectory/public/service-worker.js",
+    "static/css/main.029f4300.chunk.css.map": "/assignment19/employeedirectory/public/static/css/main.029f4300.chunk.css.map",
+    "static/js/2.97c5b96a.chunk.js.LICENSE.txt": "/assignment19/employeedirectory/public/static/js/2.97c5b96a.chunk.js.LICENSE.txt",
+    "static/media/business-company-working.jpg": "/assignment19/employeedirectory/public/static/media/business-company-working.06d638c9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2473444.js",
+    "static/js/2.97c5b96a.chunk.js",
+    "static/css/main.029f4300.chunk.css",
+    "static/js/main.c509bdca.chunk.js"
+  ]
+}
