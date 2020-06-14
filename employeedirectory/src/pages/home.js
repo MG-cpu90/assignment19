@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import Hero from "../components/Hero";
-import Table from "../components/Table";
+import Hero from "../components/hero";
+import Table from "../components/table";
 import { render } from "react-dom";
 
 class Home extends Component {

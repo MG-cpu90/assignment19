@@ -1,4 +1,5 @@
 import React from "react";
+import Home from "../pages/home";
 import "./index.css";
 
 function Hero(props) {
