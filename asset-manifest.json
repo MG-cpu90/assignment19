@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/assignment19/employeedirectory/static/css/main.029f4300.chunk.css",
-    "main.js": "/assignment19/employeedirectory/static/js/main.51477eb7.chunk.js",
-    "main.js.map": "/assignment19/employeedirectory/static/js/main.51477eb7.chunk.js.map",
-    "runtime-main.js": "/assignment19/employeedirectory/static/js/runtime-main.e9443520.js",
-    "runtime-main.js.map": "/assignment19/employeedirectory/static/js/runtime-main.e9443520.js.map",
-    "static/js/2.97c5b96a.chunk.js": "/assignment19/employeedirectory/static/js/2.97c5b96a.chunk.js",
-    "static/js/2.97c5b96a.chunk.js.map": "/assignment19/employeedirectory/static/js/2.97c5b96a.chunk.js.map",
-    "index.html": "/assignment19/employeedirectory/index.html",
-    "precache-manifest.58a4947bec6b555cd3afcbaf38d153ce.js": "/assignment19/employeedirectory/precache-manifest.58a4947bec6b555cd3afcbaf38d153ce.js",
-    "service-worker.js": "/assignment19/employeedirectory/service-worker.js",
-    "static/css/main.029f4300.chunk.css.map": "/assignment19/employeedirectory/static/css/main.029f4300.chunk.css.map",
-    "static/js/2.97c5b96a.chunk.js.LICENSE.txt": "/assignment19/employeedirectory/static/js/2.97c5b96a.chunk.js.LICENSE.txt",
-    "static/media/business-company-working.jpg": "/assignment19/employeedirectory/static/media/business-company-working.06d638c9.jpg"
+    "main.css": "/assignment19/static/css/main.bb7510be.chunk.css",
+    "main.js": "/assignment19/static/js/main.f985ef12.chunk.js",
+    "main.js.map": "/assignment19/static/js/main.f985ef12.chunk.js.map",
+    "runtime-main.js": "/assignment19/static/js/runtime-main.501dec16.js",
+    "runtime-main.js.map": "/assignment19/static/js/runtime-main.501dec16.js.map",
+    "static/js/2.fcbdc530.chunk.js": "/assignment19/static/js/2.fcbdc530.chunk.js",
+    "static/js/2.fcbdc530.chunk.js.map": "/assignment19/static/js/2.fcbdc530.chunk.js.map",
+    "index.html": "/assignment19/index.html",
+    "precache-manifest.3c7c51f8b04656f063edbe4518239dec.js": "/assignment19/precache-manifest.3c7c51f8b04656f063edbe4518239dec.js",
+    "service-worker.js": "/assignment19/service-worker.js",
+    "static/css/main.bb7510be.chunk.css.map": "/assignment19/static/css/main.bb7510be.chunk.css.map",
+    "static/js/2.fcbdc530.chunk.js.LICENSE.txt": "/assignment19/static/js/2.fcbdc530.chunk.js.LICENSE.txt",
+    "static/media/business-company-working.jpg": "/assignment19/static/media/business-company-working.06d638c9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9443520.js",
-    "static/js/2.97c5b96a.chunk.js",
-    "static/css/main.029f4300.chunk.css",
-    "static/js/main.51477eb7.chunk.js"
+    "static/js/runtime-main.501dec16.js",
+    "static/js/2.fcbdc530.chunk.js",
+    "static/css/main.bb7510be.chunk.css",
+    "static/js/main.f985ef12.chunk.js"
   ]
 }
