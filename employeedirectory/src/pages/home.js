@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Hero from "../components/Hero";
 import Table from "../components/Table";
+import backgroundImage from './business-company-working.jpg';
 import { render } from "react-dom";
 
 class Home extends Component {
@@ -103,7 +104,7 @@ class Home extends Component {
     return (
       <div>
         <div className="jumbotron jumbotron-fluid">
-          <Hero backgroundImage="../business-company-working.jpg">
+          <Hero backgroundImage={"https://images.pexels.com/photos/7070/space-desk-workspace-coworking.jpg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"}>
             <h1 className="display-4">Employee Directory</h1>
             <h2></h2>
             <p className="lead"></p>

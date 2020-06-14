@@ -1,5 +1,6 @@
 import React from "react";
-import "./index.css";
+// import backgroundImage from '../pages/business-company-working.jpg';
+import "./style.css";
 
 function Hero(props) {
   return (
