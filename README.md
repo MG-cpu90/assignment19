@@ -36,6 +36,28 @@ The user is able to:
 
   * Filter the users by at least one property.
 
+## Application Screenshot
+
+![alt text](./public/employee_directory.png "Assignment 19 Screen Shot")
+
+## Accesories and Technologies Used:
+* HTML
+* CSS
+* [Bootstrap](https://getbootstrap.com/)
+* [Font Awesome](https://fontawesome.com/)
+* JSX
+* React
+* JSON
+* Web Manifest
+* Service Worker
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Google Chrome](http://www.google.com/chrome)
+* [Node.js](https://nodejs.org/en/)
+* Git/Terminal
+* [GitHub](https://github.com/)
+* [Netlify](https://www.netlify.com/)
+
+
 ## Submission on BCS
 
 * The URL to the deployed application: https://mg-cpu90.github.io/assignment19/
