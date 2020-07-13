@@ -28,6 +28,14 @@ THEN the data on that particular employee is filtered from the table.
 ```
 - - -
 
+## Usage
+
+* In order to run the following react application, first clone the GitHub repository to your local device.
+* Then, open the project root directory in the terminal window, and run "npm install" 
+* After the libraries needed to run the application have been installed, run the "npm start" file through node
+* If you are not automatically redireced to it, navigate to the URL: http://localhost:3000/ in order to view the web application
+
+
 ## Features
 
 The user is able to:
